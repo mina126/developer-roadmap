@@ -6,3 +6,4 @@ Learn more from the following resources:
 
 - [@article@What is data transformation?](https://www.qlik.com/us/data-management/data-transformation)
 - [@feed@Explore top posts about Data Analysis](https://app.daily.dev/tags/data-analysis?ref=roadmapsh)
+- [@video@What is Data Transformation?]([https://app.daily.dev/tags/data-analysis?ref=roadmapsh](https://www.youtube.com/watch?v=TY0NAPAWR3M&ab_channel=Funnel))
